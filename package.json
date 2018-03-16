@@ -1,0 +1,20 @@
+{
+  "name": "jshistogram",
+  "version": "1.0.0",
+  "description": "Make a character histogram out of a website",
+  "main": "src/index.js",
+  "repository": "https://github.com/sguzman/JSHisogram.git",
+  "author": "Salvador Guzman <guzmansalv@gmail.com>",
+  "license": "Unlicense",
+  "private": false,
+  "resolutions": {
+    "boom": "5.2.0",
+    "extsprintf": "1.4.0",
+    "lodash": "4.17.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
